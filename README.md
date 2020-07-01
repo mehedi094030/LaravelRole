@@ -18,8 +18,6 @@ $ composer update
 A skeleton for creating applications with [Laravel](https://laravel.com) 5.x.
 With user role and menu management.
 
-The framework source code can be found here: [RoleBuzz](https://github.com/mazba/roleBuzz).
-
 ## Configuration
 
 Read and edit `config` and setup the 'Datasources' and any other
@@ -31,5 +29,5 @@ configuration relevant for your application.
     * Dynamic infinite menu tree;
 
 
-username: mazba ;
+username: admin ;
 password: 123456 ;
